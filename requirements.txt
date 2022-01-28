@@ -8,4 +8,4 @@ numpy==1.19.5
 ipympl==0.5.8
 ipywidgets==7.5.0
 librosa==0.8.1
-soundfile==0.10.3
+soundfile==0.10.3.post1
