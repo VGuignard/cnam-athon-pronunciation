@@ -9,3 +9,4 @@ ipympl==0.5.8
 ipywidgets==7.5.0
 librosa==0.8.1
 soundfile==0.10.3.post1
+sndfile==0.2.0
