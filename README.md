@@ -82,6 +82,9 @@ Le dépôt Git de ce cours doit servir de modèle de structuration de données e
 Binder Du projet :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VGuignard/cnam-athon-pronunciation/HEAD)
 
+Le Voilà ne marche en raison de la librairie Librosa qui empéche la lecture de fichier Audio.  
+<img src="Erreur Voilà pour Librosa.jpg"
+
 [Launch Voilà](https://mybinder.org/v2/gh/VGuignard/cnam-athon-pronunciation/HEAD?urlpath=voila%2Frender%2Fnotebook%2Fvladimir_guignard_App.ipynb)
 
 
